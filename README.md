@@ -1,13 +1,5 @@
 # Demo Git Repository
 
-This is the first file in this repo.
+This is the first line
 
-## Ipsum Below
-
-foo
-bar
-now is the time for all good men to come to the aid of the party
-
-
-more Ipsum below
-
+this is the next line
